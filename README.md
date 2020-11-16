@@ -8,4 +8,4 @@ Deploy your own Pluggy Connect endpoint with Vercel. You just have to set your o
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/pluggyai/pluggy-connect-vercel)
 
-_Live Example (only with sandbox connectors):_ https://pluggy-connect.vercel.app/token
+_Live Example (only with sandbox connectors):_ https://pluggy-connect.vercel.app/api/token
